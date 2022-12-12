@@ -3,8 +3,7 @@
 
 ### Project Level: Beginner 
 ### Libraries: Pandas, Matplotlib, Numpy, Sklearn
-## Project Overview:
-<br>
+### Project Overview:
 <br>
 In this project, the iris dataset contains the length and width of respective petals and sepals of three different speices. Using this data, we conduct an analysis of this data using the pandas and matplotlib libraries. After we have conducted our analysis of the data, we then move to perform simply data manipulation to be able to construct a graph that corrleates a linear pattern between the width and height of the flowers. Finally, we use logisic regression as our machine learning model to be able to create prediction model for our test sample.
 <br>
